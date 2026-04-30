@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="eXe-MANIFEST-molz6uktr6in3"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>imslrm.xml</adlcp:location>
+  </metadata>
+  <organizations default="eXe-molz6uktr6in3">
+    <organization identifier="eXe-molz6uktr6in3" structure="hierarchical">
+      <title>¿JUGAMOS?</title>
+      <item identifier="ITEM-page-molz6mmz-yxxmkddgv" identifierref="RES-page-molz6mmz-yxxmkddgv" isvisible="true">
+        <title>1. LA VUELTA AL MUNDO A TRAVÉS DE LOS JUEGOS</title>
+      </item>
+      <item identifier="ITEM-page-molz6mn2-ijtvl6pvc" identifierref="RES-page-molz6mn2-ijtvl6pvc" isvisible="true">
+        <title>2. ¿QUÉ ES UN JUEGO TRADICIONAL?</title>
+      </item>
+      <item identifier="ITEM-page-molz6mn4-c83nkgywe" identifierref="RES-page-molz6mn4-c83nkgywe" isvisible="true">
+        <title>3. TU MISIÓN</title>
+      </item>
+      <item identifier="ITEM-page-molz6mn4-1n0wbkry2" identifierref="RES-page-molz6mn4-1n0wbkry2" isvisible="true">
+        <title>4. FICHA DEL JUEGO</title>
+      </item>
+      <item identifier="ITEM-page-molz6mn6-1z3efv9hn" identifierref="RES-page-molz6mn6-1z3efv9hn" isvisible="true">
+        <title>5. GRABA TU VÍDEO O AUDIO</title>
+      </item>
+      <item identifier="ITEM-page-molz6mn7-9l0xolk4a" identifierref="RES-page-molz6mn7-9l0xolk4a" isvisible="true">
+        <title>6. CREA TU INFOGRAFÍA</title>
+      </item>
+      <item identifier="ITEM-page-molz6mn8-yb1k8zct0" identifierref="RES-page-molz6mn8-yb1k8zct0" isvisible="true">
+        <title>7. PREPARA TU CLASE DE E.F.</title>
+      </item>
+      <item identifier="ITEM-page-molz6mn8-2wosqgskp" identifierref="RES-page-molz6mn8-2wosqgskp" isvisible="true">
+        <title>8. EVALÚA LA MISIÓN</title>
+      </item>
+      <item identifier="ITEM-page-molz6mna-amasfc3dq" identifierref="RES-page-molz6mna-amasfc3dq" isvisible="true">
+        <title>9. DESPEDIDA</title>
+      </item>
+      <item identifier="ITEM-page-molz6mnb-al8ixmaia" identifierref="RES-page-molz6mnb-al8ixmaia" isvisible="true">
+        <title>9. Atribución y fichero descargable.</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-page-molz6mmz-yxxmkddgv" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-molz6mn2-ijtvl6pvc" type="webcontent" adlcp:scormtype="sco" href="html/2-que-es-un-juego-tradicional.html">
+      <file href="html/2-que-es-un-juego-tradicional.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-molz6mn4-c83nkgywe" type="webcontent" adlcp:scormtype="sco" href="html/3-tu-mision.html">
+      <file href="html/3-tu-mision.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-molz6mn4-1n0wbkry2" type="webcontent" adlcp:scormtype="sco" href="html/4-ficha-del-juego.html">
+      <file href="html/4-ficha-del-juego.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-molz6mn6-1z3efv9hn" type="webcontent" adlcp:scormtype="sco" href="html/5-graba-tu-video-o-audio.html">
+      <file href="html/5-graba-tu-video-o-audio.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-molz6mn7-9l0xolk4a" type="webcontent" adlcp:scormtype="sco" href="html/6-crea-tu-infografia.html">
+      <file href="html/6-crea-tu-infografia.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-molz6mn8-yb1k8zct0" type="webcontent" adlcp:scormtype="sco" href="html/7-prepara-tu-clase-de-ef.html">
+      <file href="html/7-prepara-tu-clase-de-ef.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-molz6mn8-2wosqgskp" type="webcontent" adlcp:scormtype="sco" href="html/8-evalua-la-mision.html">
+      <file href="html/8-evalua-la-mision.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-molz6mna-amasfc3dq" type="webcontent" adlcp:scormtype="sco" href="html/9-despedida.html">
+      <file href="html/9-despedida.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-molz6mnb-al8ixmaia" type="webcontent" adlcp:scormtype="sco" href="html/9-atribucion-y-fichero-descargable.html">
+      <file href="html/9-atribucion-y-fichero-descargable.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="COMMON_FILES" type="webcontent" adlcp:scormtype="asset">
+      <file href="content.dtd"/>
+      <file href="content.xml"/>
+      <file href="content/css/base.css"/>
+      <file href="content/img/exe_powered_logo.png"/>
+      <file href="content/resources/202603_71883325E_00_ED.pdf"/>
+      <file href="content/resources/Aprender a jugar a (2).png"/>
+      <file href="content/resources/canicas.jpg"/>
+      <file href="content/resources/carrera de sacos.jpg"/>
+      <file href="content/resources/comba.jpg"/>
+      <file href="content/resources/cuerdas.jpg"/>
+      <file href="content/resources/escondite inglés.jpg"/>
+      <file href="content/resources/ficha de juego.png"/>
+      <file href="content/resources/imagen_cc.png"/>
+      <file href="content/resources/juegos de palmas.jpg"/>
+      <file href="content/resources/kendama.jpg"/>
+      <file href="content/resources/lagori.jpg"/>
+      <file href="content/resources/mceclip0.png"/>
+      <file href="content/resources/ods.jpg"/>
+      <file href="content/resources/peonza o trompo.jpg"/>
+      <file href="content/resources/petanca.jpg"/>
+      <file href="content/resources/puzle-mapamundi-magnetico-92-piezas-regiones-del-mundo---janod-2.jpg"/>
+      <file href="content/resources/rayuela.jpg"/>
+      <file href="content/resources/soga-tira.jpg"/>
+      <file href="content/resources/tres en raya.jpg"/>
+      <file href="idevices/download-source-file/download-package-licenses.png"/>
+      <file href="idevices/download-source-file/download-source-file.css"/>
+      <file href="idevices/download-source-file/download-source-file.js"/>
+      <file href="idevices/download-source-file/exequextsq.svg"/>
+      <file href="idevices/flipcards/exequextbuttonko.svg"/>
+      <file href="idevices/flipcards/exequextbuttonok.svg"/>
+      <file href="idevices/flipcards/exequextcursor.gif"/>
+      <file href="idevices/flipcards/exequextfull.svg"/>
+      <file href="idevices/flipcards/exequexthits.svg"/>
+      <file href="idevices/flipcards/exequextlost.png"/>
+      <file href="idevices/flipcards/exequextmin.svg"/>
+      <file href="idevices/flipcards/exequextnumber.svg"/>
+      <file href="idevices/flipcards/exequextplayaudio.svg"/>
+      <file href="idevices/flipcards/exequextreply.svg"/>
+      <file href="idevices/flipcards/exequextrerrors.svg"/>
+      <file href="idevices/flipcards/exequextscore.svg"/>
+      <file href="idevices/flipcards/exequextsq.svg"/>
+      <file href="idevices/flipcards/exequexttime.svg"/>
+      <file href="idevices/flipcards/exequextwon.png"/>
+      <file href="idevices/flipcards/exezoomf.png"/>
+      <file href="idevices/flipcards/exezoomn.png"/>
+      <file href="idevices/flipcards/flcsHome.png"/>
+      <file href="idevices/flipcards/flipcards.css"/>
+      <file href="idevices/flipcards/flipcards.js"/>
+      <file href="idevices/flipcards/flipcardsIcon.png"/>
+      <file href="idevices/form/exequexthits.svg"/>
+      <file href="idevices/form/exequextrerrors.svg"/>
+      <file href="idevices/form/exequextsq.svg"/>
+      <file href="idevices/form/form.css"/>
+      <file href="idevices/form/form.html"/>
+      <file href="idevices/form/form.js"/>
+      <file href="idevices/form/formnext.png"/>
+      <file href="idevices/form/formnextd.png"/>
+      <file href="idevices/form/formprevious.png"/>
+      <file href="idevices/form/formpreviousd.png"/>
+      <file href="idevices/form/frmhidesuggestion.png"/>
+      <file href="idevices/form/frmshowsuggestion.png"/>
+      <file href="idevices/puzzle/exequextaudio.svg"/>
+      <file href="idevices/puzzle/exequextcursor.gif"/>
+      <file href="idevices/puzzle/exequextfull.svg"/>
+      <file href="idevices/puzzle/exequexthits.svg"/>
+      <file href="idevices/puzzle/exequextlive.png"/>
+      <file href="idevices/puzzle/exequextlost.png"/>
+      <file href="idevices/puzzle/exequextmin.svg"/>
+      <file href="idevices/puzzle/exequextnumber.svg"/>
+      <file href="idevices/puzzle/exequextplayaudio.svg"/>
+      <file href="idevices/puzzle/exequextreply.svg"/>
+      <file href="idevices/puzzle/exequextrerrors.svg"/>
+      <file href="idevices/puzzle/exequextscore.svg"/>
+      <file href="idevices/puzzle/exequextsq.svg"/>
+      <file href="idevices/puzzle/exequexttime.svg"/>
+      <file href="idevices/puzzle/exequextwon.png"/>
+      <file href="idevices/puzzle/mapaareas.svg"/>
+      <file href="idevices/puzzle/puzlenumbers.svg"/>
+      <file href="idevices/puzzle/puzzle-Image.png"/>
+      <file href="idevices/puzzle/puzzle.css"/>
+      <file href="idevices/puzzle/puzzle.js"/>
+      <file href="idevices/puzzle/puzzleHome.png"/>
+      <file href="idevices/puzzle/puzzleIcon.png"/>
+      <file href="idevices/puzzle/quextCursor.gif"/>
+      <file href="idevices/puzzle/quextauthor.png"/>
+      <file href="idevices/puzzle/vquextReload.svg"/>
+      <file href="idevices/relate/exequextbuttonko.svg"/>
+      <file href="idevices/relate/exequextbuttonok.svg"/>
+      <file href="idevices/relate/exequextcopyright.png"/>
+      <file href="idevices/relate/exequextcursor.gif"/>
+      <file href="idevices/relate/exequextfull.svg"/>
+      <file href="idevices/relate/exequexthits.svg"/>
+      <file href="idevices/relate/exequextmin.svg"/>
+      <file href="idevices/relate/exequextnumber.svg"/>
+      <file href="idevices/relate/exequextplayaudio.svg"/>
+      <file href="idevices/relate/exequextreload.svg"/>
+      <file href="idevices/relate/exequextreply.svg"/>
+      <file href="idevices/relate/exequextrerrors.svg"/>
+      <file href="idevices/relate/exequextscore.svg"/>
+      <file href="idevices/relate/exequextsq.svg"/>
+      <file href="idevices/relate/exequexttime.svg"/>
+      <file href="idevices/relate/exezoomf.png"/>
+      <file href="idevices/relate/exezoomn.png"/>
+      <file href="idevices/relate/relacionaHome.png"/>
+      <file href="idevices/relate/relacionaIcon.png"/>
+      <file href="idevices/relate/relacionaIcon.svg"/>
+      <file href="idevices/relate/relate.css"/>
+      <file href="idevices/relate/relate.js"/>
+      <file href="idevices/rubric/exequextsq.svg"/>
+      <file href="idevices/rubric/html2canvas.js"/>
+      <file href="idevices/rubric/rubric.css"/>
+      <file href="idevices/rubric/rubric.js"/>
+      <file href="idevices/text/exequextsq.svg"/>
+      <file href="idevices/text/text.css"/>
+      <file href="idevices/text/text.html"/>
+      <file href="idevices/text/text.js"/>
+      <file href="idevices/udl-content/exequextsq.svg"/>
+      <file href="idevices/udl-content/udl-character-1.gif"/>
+      <file href="idevices/udl-content/udl-character-2.gif"/>
+      <file href="idevices/udl-content/udl-character-3.gif"/>
+      <file href="idevices/udl-content/udl-character-4.gif"/>
+      <file href="idevices/udl-content/udl-content.css"/>
+      <file href="idevices/udl-content/udl-content.js"/>
+      <file href="idevices/udl-content/udl-icons-sm.png"/>
+      <file href="idevices/udl-content/udl-icons.png"/>
+      <file href="imslrm.xml"/>
+      <file href="libs/SCOFunctions.js"/>
+      <file href="libs/SCORM_API_wrapper.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js.map"/>
+      <file href="libs/bootstrap/bootstrap.min.css"/>
+      <file href="libs/bootstrap/bootstrap.min.css.map"/>
+      <file href="libs/common.js"/>
+      <file href="libs/common_i18n.js"/>
+      <file href="libs/elpx-manifest.js"/>
+      <file href="libs/exe_elpx_download/exe_elpx_download.js"/>
+      <file href="libs/exe_export.js"/>
+      <file href="libs/favicon.ico"/>
+      <file href="libs/fflate/fflate.umd.js"/>
+      <file href="libs/jquery-ui/jquery-ui.min.js"/>
+      <file href="libs/jquery/jquery.min.js"/>
+      <file href="theme/config.xml"/>
+      <file href="theme/fonts/Fredoka-Bold.woff"/>
+      <file href="theme/fonts/Fredoka-Regular.woff"/>
+      <file href="theme/fonts/Fredoka-SemiBold.woff"/>
+      <file href="theme/icons/activity.svg"/>
+      <file href="theme/icons/agreement.svg"/>
+      <file href="theme/icons/alert.svg"/>
+      <file href="theme/icons/arts.svg"/>
+      <file href="theme/icons/ask.svg"/>
+      <file href="theme/icons/book.svg"/>
+      <file href="theme/icons/calculate.svg"/>
+      <file href="theme/icons/case.svg"/>
+      <file href="theme/icons/chrono.svg"/>
+      <file href="theme/icons/collaborative.svg"/>
+      <file href="theme/icons/competencies.svg"/>
+      <file href="theme/icons/diary.svg"/>
+      <file href="theme/icons/diary_alt.svg"/>
+      <file href="theme/icons/discuss.svg"/>
+      <file href="theme/icons/download.svg"/>
+      <file href="theme/icons/draw.svg"/>
+      <file href="theme/icons/english.svg"/>
+      <file href="theme/icons/experiment.svg"/>
+      <file href="theme/icons/explore.svg"/>
+      <file href="theme/icons/file.svg"/>
+      <file href="theme/icons/gallery.svg"/>
+      <file href="theme/icons/geography.svg"/>
+      <file href="theme/icons/guide.svg"/>
+      <file href="theme/icons/history.svg"/>
+      <file href="theme/icons/info.svg"/>
+      <file href="theme/icons/interactive.svg"/>
+      <file href="theme/icons/letters.svg"/>
+      <file href="theme/icons/listen.svg"/>
+      <file href="theme/icons/math.svg"/>
+      <file href="theme/icons/music.svg"/>
+      <file href="theme/icons/nature.svg"/>
+      <file href="theme/icons/objectives.svg"/>
+      <file href="theme/icons/observe.svg"/>
+      <file href="theme/icons/passport.svg"/>
+      <file href="theme/icons/perform.svg"/>
+      <file href="theme/icons/piece.svg"/>
+      <file href="theme/icons/pieces.svg"/>
+      <file href="theme/icons/play.svg"/>
+      <file href="theme/icons/present.svg"/>
+      <file href="theme/icons/reflection.svg"/>
+      <file href="theme/icons/roadmap.svg"/>
+      <file href="theme/icons/share.svg"/>
+      <file href="theme/icons/sport.svg"/>
+      <file href="theme/icons/start.svg"/>
+      <file href="theme/icons/stop.svg"/>
+      <file href="theme/icons/suitcase.svg"/>
+      <file href="theme/icons/technology.svg"/>
+      <file href="theme/icons/think.svg"/>
+      <file href="theme/icons/think_alt.svg"/>
+      <file href="theme/icons/video.svg"/>
+      <file href="theme/img/arrow.svg"/>
+      <file href="theme/img/arrow_down.svg"/>
+      <file href="theme/img/arrow_down_menu.svg"/>
+      <file href="theme/img/back_arrow.svg"/>
+      <file href="theme/img/background.png"/>
+      <file href="theme/img/book_color.svg"/>
+      <file href="theme/img/book_white.svg"/>
+      <file href="theme/img/forward_arrow.svg"/>
+      <file href="theme/img/licenses.gif"/>
+      <file href="theme/img/logo.png"/>
+      <file href="theme/img/logo_responsive.png"/>
+      <file href="theme/img/menu_closed.svg"/>
+      <file href="theme/img/menu_open.svg"/>
+      <file href="theme/img/menu_open_color.svg"/>
+      <file href="theme/img/search.svg"/>
+      <file href="theme/img/switch.svg"/>
+      <file href="theme/img/switch_white.svg"/>
+      <file href="theme/img/teacher_hat.svg"/>
+      <file href="theme/screenshot.png"/>
+      <file href="theme/style.css"/>
+      <file href="theme/style.js"/>
+    </resource>
+  </resources>
+</manifest>
